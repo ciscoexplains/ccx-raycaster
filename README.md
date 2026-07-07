@@ -1,4 +1,4 @@
-# Raycasting Project 🚀
+# Raycasting Project 
 
 Hey there! Welcome to this little raycasting engine. 
 
@@ -22,10 +22,3 @@ make
 ./raycaster
 ```
 
-## Controls
-- **W, A, S, D** or **Arrow Keys**: Walk around and explore the map.
-- **ESC**: Quit the application.
-
-Feel free to poke around the code! If you're doing any modifications for the research, the `worldMap` array at the top of `raycaster.cpp` is probably the easiest place to start if you want to mess with the level design.
-
-Happy researching! 🔬
