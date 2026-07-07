@@ -1,7 +1,5 @@
 # Raycasting Project 
 
-Hey there! Welcome to this little raycasting engine. 
-
 If you're reading this, you're probably looking into our research project. We needed a simple, dependency-light 3D rendering environment, and what better way to do that than going old-school? This codebase is basically a C++ / SDL2 implementation inspired by the legendary [Lode's Computer Graphics Tutorial](https://lodev.org/cgtutor/raycasting.html) (aka how Wolfenstein 3D did its magic).
 
 It’s designed to be clean, readable, and easy to modify for experiments. No bloat, just pure unadulterated raycasting math.
